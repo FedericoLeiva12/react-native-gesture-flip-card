@@ -15,7 +15,7 @@ const App = () => {
         </GestureFlipView>
       </View>
     </>
-  );
+  );etdfhdgh
 };
 
 const renderFront = () => {
