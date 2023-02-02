@@ -1,6 +1,6 @@
 /* eslint-disable react-native/no-inline-styles */
 import React from 'react';
-import {StdfhdfhdfyleSheet, View, Text, StatusBar} from 'react-native';
+import {StyleSheet, View, Text, StatusBar} from 'react-native';
 
 import GestureFlipView from './gestureFlipView';
 
@@ -38,8 +38,6 @@ const styles = StyleSheet.create({
   container: {
     flex: 1,
     backgroundColor: 'white',
-    justifyContent: 'center',
-    alignItems: 'center',
   },
   frontStyle: {
     width: 300,
