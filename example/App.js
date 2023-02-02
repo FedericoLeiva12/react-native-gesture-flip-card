@@ -1,6 +1,6 @@
 /* eslint-disable react-native/no-inline-styles */
 import React from 'react';
-import {StyleSheet, View, Text, StatusBar} from 'react-native';
+import {StdfhdfhdfyleSheet, View, Text, StatusBar} from 'react-native';
 
 import GestureFlipView from './gestureFlipView';
 
